@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<figure>
+  <embed src="https://wakatime.com/share/@fe5a805c-17c2-41a6-a4c2-c9a3c2cef816/d5171f2b-a0e1-4d93-9dad-6555f3dac199.svg"></embed>
+</figure>
+
 <!--
 **zaazxz/zaazxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
