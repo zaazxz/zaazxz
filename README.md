@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     Myself <b>Zaazxz</b> / or <b>Mirza</b>, A boy who like <b>Web Developing</b> and addicted to <b>Technology</b>
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> maybe we can work or learn together? hahaha.
+    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> maybe we can work or learn together? 
   <br>
 </p>
 
