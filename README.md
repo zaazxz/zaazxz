@@ -13,7 +13,7 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 Emm, just a boy with random imagination and want to applicate it with tech.
-- 🔭 Now, i'am an apprentice in Dimy Teknologi Indonesia.
+- 🔭 Now, i'am an freelancer who open to any task in web development.
 - 👯 I’m looking to collaborate with Fullstack Web Developer.
 - 💡 Contributing to Open Source Projects and learn something new is always been a goal to me.
 - ⚡ Fun fact: I love Sleep and you, but you don't like me back.
