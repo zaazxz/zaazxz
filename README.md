@@ -24,7 +24,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -65,17 +65,17 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr                ███████████████████████░░   91.15 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JavaScript               1 hr 38 mins        ██████████████████████░░░   88.50 % 
+Text                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learn-react              1 hr 6 mins         █████████████████████████   100.00 % 
+learn-react              1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -95,7 +95,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2024 18:38:55 UTC
+ Last Updated on 12/07/2024 18:41:01 UTC
 <!--END_SECTION:waka-->
 
 <br>
