@@ -26,11 +26,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 332.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 474 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +97,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 18:36:29 UTC
+ Last Updated on 14/07/2024 18:49:13 UTC
 <!--END_SECTION:waka-->
 
 <br>
