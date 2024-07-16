@@ -24,13 +24,15 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 332.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 477 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,17 +67,17 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 38 mins        ██████████████████████░░░   88.50 % 
-Text                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+JavaScript               2 hrs 11 mins       ███████████████████████░░   91.15 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learn-react              1 hr 51 mins        █████████████████████████   100.00 % 
+learn-react              2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -95,7 +97,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 18:39:24 UTC
+ Last Updated on 16/07/2024 18:39:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
