@@ -10,8 +10,6 @@
   <br>
 </p>
 
-<h3>Littlle facts about me 🧑</h3>
-
 - 🧞 Emm, just a boy with random imagination and want to applicate it with tech.
 - 🔭 Now, i'am an freelancer who open to any task in web development.
 - 👯 I’m looking to collaborate with Fullstack Web Developer.
