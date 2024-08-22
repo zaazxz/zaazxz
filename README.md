@@ -22,13 +22,15 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 332.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 490 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,16 +65,17 @@ Sunday                   137 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 36 mins        █████████████████████████   98.77 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+react                    1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -92,7 +95,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 18:40:39 UTC
+ Last Updated on 22/08/2024 18:40:47 UTC
 <!--END_SECTION:waka-->
 
 <br>
