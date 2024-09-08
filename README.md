@@ -22,13 +22,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 332.3 kB Used in GitHub's Storage 
+> 📦 332.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,45 +36,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                521 commits         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌆 Daytime                465 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-🌃 Evening                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-🌙 Night                  558 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   319 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Tuesday                  262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Wednesday                383 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Thursday                 391 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Friday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Saturday                 100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-JavaScript               3 hrs 23 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-react                    3 hrs 23 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -92,7 +53,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 18:39:53 UTC
+ Last Updated on 08/09/2024 18:40:17 UTC
 <!--END_SECTION:waka-->
 
 <br>
