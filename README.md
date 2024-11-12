@@ -30,8 +30,6 @@
 
 > 📦 490.1 kB Used in GitHub's Storage 
  > 
-> 🏆 573 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -65,21 +63,16 @@ Sunday                   209 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 hr 1 min          ████████████████░░░░░░░░░   65.34 % 
-CSS                      24 mins             ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fixed                    1 hr 31 mins        ████████████████████████░   96.34 % 
-Mirza                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -99,7 +92,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2024 18:42:57 UTC
+ Last Updated on 12/11/2024 18:42:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
