@@ -22,7 +22,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,17 @@ Sunday                   211 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 mins              █████████████████████████   100.00 % 
+SCSS                     2 mins              ██████████████████░░░░░░░   73.47 % 
+TypeScript               0 secs              ███████░░░░░░░░░░░░░░░░░░   26.53 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learn-nextjs             2 mins              █████████████████████████   100.00 % 
+learn-nextjs             3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +95,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 19:24:16 UTC
+ Last Updated on 14/02/2025 19:25:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
