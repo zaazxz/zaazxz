@@ -30,6 +30,8 @@
 
 > 📦 490.4 kB Used in GitHub's Storage 
  > 
+> 🏆 27 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -93,7 +95,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 19:17:43 UTC
+ Last Updated on 17/02/2025 19:17:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
