@@ -22,13 +22,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 490.4 kB Used in GitHub's Storage 
+> 📦 490.5 kB Used in GitHub's Storage 
  > 
 > 🏆 36 Contributions in the Year 2025
  > 
@@ -65,17 +65,18 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   99.79 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               41 mins             ██████████████████████░░░   87.04 % 
+CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learn-nextjs             2 mins              █████████████████████████   100.00 % 
+learn-nextjs             48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +96,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2025 19:15:54 UTC
+ Last Updated on 11/03/2025 19:33:40 UTC
 <!--END_SECTION:waka-->
 
 <br>
