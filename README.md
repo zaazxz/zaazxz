@@ -65,17 +65,16 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               41 mins             ███████████████████████░░   91.45 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-learn-nextjs             45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +94,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2025 19:24:45 UTC
+ Last Updated on 17/03/2025 19:26:09 UTC
 <!--END_SECTION:waka-->
 
 <br>
