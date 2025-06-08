@@ -22,7 +22,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,7 +30,7 @@
 
 > 📦 587.4 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2025
+> 🏆 94 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,16 +65,18 @@ Sunday                   216 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               17 mins             █████████████░░░░░░░░░░░░   50.23 % 
+Text                     15 mins             ███████████░░░░░░░░░░░░░░   42.80 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+learn-nextjs             35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +96,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2025 19:33:56 UTC
+ Last Updated on 08/06/2025 19:32:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
