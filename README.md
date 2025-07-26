@@ -22,7 +22,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,18 @@ Sunday                   221 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               20 mins             ████████████████████████░   95.71 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+learn-react              21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +96,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 19:56:20 UTC
+ Last Updated on 26/07/2025 19:44:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
