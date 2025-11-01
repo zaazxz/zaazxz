@@ -22,9 +22,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2055%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
@@ -38,45 +36,6 @@
  > 
 > 🔑 50 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                738 commits         ████████░░░░░░░░░░░░░░░░░   30.55 % 
-🌆 Daytime                533 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-🌃 Evening                402 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-🌙 Night                  743 commits         ████████░░░░░░░░░░░░░░░░░   30.75 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   436 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Tuesday                  327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Wednesday                503 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Thursday                 472 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Saturday                 143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Sunday                   224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -94,7 +53,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zaazxz/zaazxz/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2025 20:06:19 UTC
+ Last Updated on 01/11/2025 20:06:22 UTC
 <!--END_SECTION:waka-->
 
 <br>
