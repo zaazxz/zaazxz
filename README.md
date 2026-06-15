@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️Taking a breather, open for new projects!<br>🤝Looking to collaborate on : Web Dev projects, especially Frontend<br>🌱Currently learning : AI Automation & building smart workflows<br>💬Ask me about : Frontend dev, AI tools, atau ngobrol soal tech<br>⚡Fun fact : Selalu excited belajar hal baru — saat ini lagi deepen skill di backend & AI tooling 😄
+🛠️Taking a breather, open for new projects!<br>🤝Looking to collaborate on : Web Dev projects, especially Frontend<br>🌱Currently learning : AI Automation & building smart workflows<br>💬Ask me about : Frontend dev, AI tools, atau ngobrol soal tech<br>⚡Fun fact : Selalu excited belajar hal baru, saat ini lagi deepen skill di backend & AI tooling 😄
 
 
 ## 🌐 Socials:
